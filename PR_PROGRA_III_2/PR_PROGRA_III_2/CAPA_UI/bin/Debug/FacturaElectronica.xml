@@ -1,0 +1,40 @@
+<raiz>
+  <versiondoc>DOC-V1.0 (?)</versiondoc>
+  <negocio>
+    <idnegocio>122345432</idnegocio>
+    <direccion>Frente a la municipalidd</direccion>
+  </negocio>
+  <tipodocumento>Factura Electrónica</tipodocumento>
+  <numerodocumento>000-000-000-001 (?)</numerodocumento>
+  <clavenumerica>clave numerica (?)</clavenumerica>
+  <fechaemision>25/8/2020 13:54:06</fechaemision>
+  <condicionventa>Contado</condicionventa>
+  <mediopago>Tarjeta</mediopago>
+  <normativa>Autorizada mediante resolución Nº DGT-R-48-2016 del 7 de octubre de 2016</normativa>
+  <productos>
+    <producto>
+      <nombreproducto>Hamburguesa Queso</nombreproducto>
+      <unidades>2</unidades>
+      <preciounidad>2500</preciounidad>
+      <preciototal>5000</preciototal>
+    </producto>
+    <producto>
+      <nombreproducto>Hamburguesa de pollo</nombreproducto>
+      <unidades>1</unidades>
+      <preciounidad>1750</preciounidad>
+      <preciototal>1750</preciototal>
+    </producto>
+    <producto>
+      <nombreproducto>Té de melocotón</nombreproducto>
+      <unidades>1</unidades>
+      <preciounidad>650</preciounidad>
+      <preciototal>650</preciototal>
+    </producto>
+  </productos>
+  <subtotal>7400</subtotal>
+  <descuento monto="740">Descuento por cupón</descuento>
+  <impuesto>962</impuesto>
+  <montoexpress>750</montoexpress>
+  <montototal>8372</montototal>
+  <montototaldolares>14,27</montototaldolares>
+</raiz>

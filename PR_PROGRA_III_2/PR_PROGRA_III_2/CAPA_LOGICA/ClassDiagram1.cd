@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAPA_LOGICA.Clases.Admin">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Admin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Articulo">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAgAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Articulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Automovil">
+    <Position X="1" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Automovil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Bicicleta">
+    <Position X="3.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Bicicleta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Cliente">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.CupoDescuento">
+    <Position X="2.75" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\CupoDescuento.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Cupon">
+    <Position X="1.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAg=</HashCode>
+      <FileName>Clases\Cupon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.CuponProductoGratis">
+    <Position X="0.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\CuponProductoGratis.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Direccion">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAABAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Clases\Direccion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Factura">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAgAAAAAAAEAAAAgACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Factura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Motocicleta">
+    <Position X="5.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Motocicleta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Negocio">
+    <Position X="7.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAACAAAA=</HashCode>
+      <FileName>Clases\Negocio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Producto">
+    <Position X="5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Repartidor">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAMAAAAAAAAAAAAIAAAAAAAAAABAAA=</HashCode>
+      <FileName>Clases\Repartidor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Tarjeta">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAQAEAAAAAAAg=</HashCode>
+      <FileName>Clases\Tarjeta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Transporte">
+    <Position X="3.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAgAAAAAA=</HashCode>
+      <FileName>Clases\Transporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Usuario">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAgEAAAMAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Clases\Usuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Facade.FacadePedido">
+    <Position X="13.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAEAABAAAAAAAAAQAAAAAAAAAAAGAAAAAAAA=</HashCode>
+      <FileName>Facade\FacadePedido.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Factory.FactoryArticulo">
+    <Position X="9.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Factory\FactoryArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Factory.FactoryTransporte">
+    <Position X="11.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAAA=</HashCode>
+      <FileName>Factory\FactoryTransporte.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Factory.FactoryUsuario">
+    <Position X="15" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAgAAAA=</HashCode>
+      <FileName>Factory\FactoryUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Gestores.GestorFactura">
+    <Position X="15" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAACCAAAAgAAAAEAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gestores\GestorFactura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Utilitarios.Correo">
+    <Position X="15" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilitarios\Correo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Utilitarios.Express">
+    <Position X="13.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilitarios\Express.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Utilitarios.Moneda">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAgAAAAAAAAA=</HashCode>
+      <FileName>Utilitarios\Moneda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Utilitarios.PagoFactura">
+    <Position X="13.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utilitarios\PagoFactura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CAPA_LOGICA.Clases.Calificacion">
+    <Position X="11.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Calificacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CAPA_LOGICA.Interfaces.IDescuento">
+    <Position X="6.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IDescuento.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CAPA_LOGICA.Interfaces.IProductoGratis">
+    <Position X="4.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IProductoGratis.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="TipoTarjeta">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Enumeraciones\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TipoBicicleta">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TipoUsuario">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAQAAAAAAAAAIAAAAAEAAAAA=</HashCode>
+      <FileName>Enumeraciones\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TipoTransporte">
+    <Position X="11.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAABAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enumeraciones\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TipoArticulo">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAABAAAAAAA=</HashCode>
+      <FileName>Enumeraciones\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
